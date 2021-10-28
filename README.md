@@ -1,2 +1,2 @@
 # ram
- ramrepo
+ ramrepo for git commands demonstration
